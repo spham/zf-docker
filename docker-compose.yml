@@ -12,7 +12,7 @@ services:
         depends_on:
           - db
         volumes:
-          - .:/var/www
+          - ./www:/var/www
 
 
 
