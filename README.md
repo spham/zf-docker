@@ -2,8 +2,8 @@
 ## Zend Framework 1
 
 
-- PHP5.6
-- MySQL
+- PHP 5.6
+- MySQL 5.6
 - phpMyAdmin
 - Mailhog
 - VueJS 2
