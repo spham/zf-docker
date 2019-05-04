@@ -6,6 +6,8 @@
 - MySQL
 - phpMyAdmin
 - MailHOg
+- VueJS 2
+- Bootstrap 4
 
 
 ```
