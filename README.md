@@ -5,7 +5,7 @@
 - PHP5.6
 - MySQL
 - phpMyAdmin
-- MailHOg
+- Mailhog
 - VueJS 2
 - Bootstrap 4
 
