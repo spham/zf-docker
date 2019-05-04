@@ -9,8 +9,8 @@
 
 
 ```
-git clone git@gitlab.com:spham/zf1-docker-lamp-et-vue-js-2.git
-
+git clone git@github.com:spham/zf-docker.git
+cd zf-docker
 docker-compse up
 ```
 
